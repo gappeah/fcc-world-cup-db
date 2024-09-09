@@ -15,6 +15,7 @@ This project is part of the FreeCodeCamp Relational Database certification. The 
 - `queries.sh`: A Bash script to query the database and retrieve specific information.
 
 ## Database Schema
+![diagram-export-09-09-2024-16_38_18](https://github.com/user-attachments/assets/0cf3a37c-845f-411d-820f-df21eef3e849)
 
 The database consists of the following tables:
 
